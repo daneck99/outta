@@ -1,5 +1,9 @@
 # outta
 <b>수정할 부분</b>
+## 공통
+batch (batch size)<br/>
+epoch <br/>
+lr (learning rate)
 ## p1
 classifier <br/>
 ## p2
